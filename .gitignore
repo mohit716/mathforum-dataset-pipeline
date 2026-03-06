@@ -1,0 +1,21 @@
+# Confidential / derived data
+problem_outputs/
+out_jsonl/*.jsonl
+out_jsonl/**/*.jsonl
+*.jsonl
+
+# Local env / cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets
+.env
+.env.*
+chat_link.txt
