@@ -1,7 +1,6 @@
 # Confidential / derived data
 problem_outputs/
-out_jsonl/*.jsonl
-out_jsonl/**/*.jsonl
+out_jsonl/
 *.jsonl
 
 # Local env / cache
